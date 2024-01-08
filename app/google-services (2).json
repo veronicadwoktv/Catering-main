@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85491618745",
+    "project_id": "catering-main-e934a",
+    "storage_bucket": "catering-main-e934a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85491618745:android:ec5bbbe018f993c5d29c68",
+        "android_client_info": {
+          "package_name": "com.azhar.catering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hSH0VQC26cZpIjsux_CF3XJvLAQK8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
